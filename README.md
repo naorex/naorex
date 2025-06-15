@@ -21,6 +21,7 @@
 
 ### Infrastructure Skills
 - AWS (Level: Beginner)
+- GCP (Level: Beginner)
 
 ![](https://skillicons.dev/icons?i=aws,gcp)
 
