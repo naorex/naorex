@@ -19,7 +19,7 @@
 - Git
 - Docker
 
-![](https://skillicons.dev/icons?i=python,ruby,java,html,css,javascript, git, docker)
+![](https://skillicons.dev/icons?i=python,ruby,java,html,css,javascript)
 
 ### Infrastructure Skills
 - AWS (Level: Beginner)
