@@ -1,16 +1,37 @@
-## Hi there 👋
+# About Me
+- Non-engineer, but interested in learning technologies.
+- Basically self-taught.
 
-<!--
-**naorex/naorex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api/top-langs?username=naorex&show_icons=true&locale=en&layout=compact)
 
-Here are some ideas to get you started:
+## Learned Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python (Level: Intermediate)
+- Ruby (Level: Beginner)
+- Java (Level: Beginner)
+- JavaScript (Level: Beginner)
+
+### Other:
+- HTML
+- CSS
+- Google Apps Script
+
+![](https://skillicons.dev/icons?i=python,ruby,java,html,css,javascript)
+
+### Infrastructure Skills
+- AWS (Level: Beginner)
+
+![](https://skillicons.dev/icons?i=aws,gcp)
+
+### Data Manipulation & Visualization
+- Excel Power Query
+- Tableau
+
+### LLM
+- [Dify](https://github.com/langgenius/dify)
+
+## Currently Interested in Learning
+- Python Flask & Django
+- AWS CDK
+- Looker Studio
