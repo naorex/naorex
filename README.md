@@ -19,7 +19,7 @@
 - Git
 - Docker
 
-![](https://skillicons.dev/icons?i=python,ruby,java,html,css,javascript,git,docker)
+![](https://skillicons.dev/icons?i=python,ruby,java)
 ![](https://skillicons.dev/icons?i=html,css,javascript)
 ![](https://skillicons.dev/icons?i=git,docker)
 
