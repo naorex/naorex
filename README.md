@@ -39,4 +39,4 @@
 ## Currently Interested in Learning
 - Python Flask & Django
 - AWS CDK
-- Looker Studio
+- Dart & Flutter
