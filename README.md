@@ -7,26 +7,11 @@
 ## Learned Skills
 
 ### Programming Languages
-- Python (Level: Intermediate)
-- Ruby (Level: Beginner)
-- Java (Level: Beginner)
-- JavaScript (Level: Beginner)
-
-### Other:
-- HTML
-- CSS
-- Google Apps Script
-- Git
-- Docker
-
 ![](https://skillicons.dev/icons?i=python,ruby,java)
 ![](https://skillicons.dev/icons?i=html,css,javascript)
 ![](https://skillicons.dev/icons?i=git,docker)
 
 ### Infrastructure Skills
-- AWS (Level: Beginner)
-- GCP (Level: Beginner)
-
 ![](https://skillicons.dev/icons?i=aws,gcp)
 
 ### Data Manipulation & Visualization
