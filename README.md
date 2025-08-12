@@ -8,7 +8,7 @@
 ![](https://skillicons.dev/icons?i=py,ruby,java)
 ![](https://skillicons.dev/icons?i=html,css,js)\
 ![](https://skillicons.dev/icons?i=git,github,docker)
-![](https://skillicons.dev/icons?i=linux,aws,gcp)\
+![](https://skillicons.dev/icons?i=ubuntu,aws,gcp)\
 ![](https://skillicons.dev/icons?i=md,vscode,notion,obsidian)
 - Excel Power Query
 - Tableau
