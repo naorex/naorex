@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=naorex&show_icons=true&locale=en&layout=compact)
 
 ## Learned Skills
-![](https://skillicons.dev/icons?i=py,java,ruby)
+![](https://skillicons.dev/icons?i=py,java)
 ![](https://skillicons.dev/icons?i=html,css,js)\
 ![](https://skillicons.dev/icons?i=git,github,docker)
 ![](https://skillicons.dev/icons?i=linux,aws,gcp)\
